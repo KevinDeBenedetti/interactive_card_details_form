@@ -1,8 +1,8 @@
 <script setup>
-import Footer from '@/components/Footer.vue'
+import Footer from './components/Footer.vue'
 import { ref } from 'vue'
-import CreditCard from '@/components/CreditCard.vue'
-import CreditCardForm from '@/components/CreditCardForm.vue'
+import CreditCard from './components/CreditCard.vue'
+import CreditCardForm from './components/CreditCardForm.vue'
 
 /*let cardName = ref(null);
 let cardNumber = ref(null);
