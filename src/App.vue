@@ -25,7 +25,7 @@ let cardData = ref({
     <CreditCard :cardData="cardData" />
 
     <CreditCardForm :cardData="cardData" />
-    
+
   </main>
 
   <Footer/>
