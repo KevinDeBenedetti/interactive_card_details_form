@@ -15,7 +15,7 @@ export default {
     screens: {
       'mobile': '375px',
       'laptop': '1024px',
-      'desktop': '1280px'
+      'desktop': '1320px'
     }
   },
   plugins: [],

@@ -160,7 +160,8 @@ const formatCardNumber = (event) => {
 </script>
 
 <template>
-  <section class="mt-[91px] flex px-[24px]">
+
+  <section class="mt-[91px] desktop:mt-[275px] flex px-[24px] desktop:mt-0 desktop:ml-[419px] desktop:px-0">
 
 <!--  Validation form  -->
     <div v-if="submitted" class="w-full max-w-[327px] flex flex-col items-center justify-center">
